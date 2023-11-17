@@ -101,7 +101,7 @@ git init
 git add .
 git status
 git commit -m "binance_monitor_v1"
-git remote add origin git@github.com:newgenes2024/binance_monitor_first.git
+git remote add origin git@github.com:jwyunmd/binance_monitor_first.git
 git remote -v
 git push
 '''
