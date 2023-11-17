@@ -102,6 +102,7 @@ git add .
 git status
 git commit -m "binance_monitor_v1"
 git remote add origin git@github.com:jwyunmd/binance_monitor_first.git
+(if error)$git remote remove origin
 git remote -v
 git push
 '''
